@@ -36,6 +36,7 @@ Requerimientos
 
 - Debe ser responsive
 - Accesibilidad como prioridad
+- OpenGraph custom
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
 - Mándalo a revisión
@@ -51,6 +52,7 @@ Requerimentos:
 - Ni una línea de Flexbox ni CSS Layout
 - Debe ser responsive
 - Accesibilidad como prioridad
+- OpenGraph custom
 - Crea el carrusel sin JavaScript
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
@@ -75,11 +77,14 @@ Puedes ayudarte de algunos servicios para consumir tus blogpost:
 Requerimentos:
 
 - Consume un API de tu contenido
-- El form final debe funcionar, hacer un post
+- El form final debe funcionar, hacer un _post_ a algún servicio.
 - Debe ser responsive
+- OpenGraph custom
 - Accesibilidad como prioridad
 
-> El límite es tu creatividad, llevalo hasta donde desees
+
+> El límite es tu creatividad, lleva el proyecto hasta donde desees.
+
 
 ### Bonus
 
