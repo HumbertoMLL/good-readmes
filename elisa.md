@@ -7,18 +7,24 @@ Crea la plantilla para tus blogpost con un diseño que ayuda con la estructura t
 
 ## Desktop
 
+Así lucirá la versión en modo Desktop de tu proyecto.
+
+
   <img alt="Vista desktop del proyecto Nemium" width="400px"  src="medium-1.png"/>
 
 
 ## Mobile
+Así lucirá la versión en modo mobile de tu proyecto.
 
   <img alt="Vista mobile del proyecto Nemium" width="400px" src="nemium.png"/>
 
 
+[Ver demo live](https://leonidasesteban.github.io/curso-esencial-html-css/)
+
 
 ## Disclaimer
 
-Todas son propuestas al final proyectos es brindarte el diseño, el límite de la creación depende de tus ganas de hacerlo realidad y tu skills del momento a la hora de ejecutarlo.
+Todas son propuestas al final /Proyectos es brindarte el diseño, el límite de la creación depende de tus ganas de hacerlo realidad y tu skills del momento a la hora de ejecutarlo.
 
 
 ## Nivel 1
@@ -28,8 +34,11 @@ Puedes usar un framework o vanilla, **no hay limitaciones**.
 
 Requerimientos
 
+- Debe ser responsive
+- Accesibilidad como prioridad
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
+- Mándalo a revisión
 
 ## Nivel 2
 
@@ -37,9 +46,18 @@ Requerimientos
 
 Crea el diseño con sólo HTML y CSS sin utilizar flexbox, sin utilzar CSS grid layout.
 
-- No puedes utilizar flexbox
-- No puedes utilizar css grid
-- 
+Requerimentos:
+
+- Ni una línea de Flexbox ni CSS Layout
+- Debe ser responsive
+- Accesibilidad como prioridad
+- Crea el carrusel sin JavaScript
+- Sube tu código a GitHub
+- Publica tu resultado con github pages
+- Mándalo a revisión
+
+Si se te complica crear esta interfaz probablemente te ayude el [Curso esencial de HTML y CSS](https://leonidasesteban.com/cursos/html-css-fundamentos)
+
 
 
 ## Nivel 3
@@ -53,6 +71,23 @@ Puedes ayudarte de algunos servicios para consumir tus blogpost:
 - Collected Notes
 - Notion
 - All notes
+
+Requerimentos:
+
+- Consume un API de tu contenido
+- El form final debe funcionar, hacer un post
+- Debe ser responsive
+- Accesibilidad como prioridad
+
+> El límite es tu creatividad, llevalo hasta donde desees
+
+### Bonus
+
+Este proyecto cuenta con variantes en Figma, crealas y coloca un menú para navergar entre variantes.
+
+
+Diseño creado por [leonidasesteban.com](https://leonidasesteban.com)
+
 
 
 
