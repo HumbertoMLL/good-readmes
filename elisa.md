@@ -3,15 +3,21 @@
 
 Crea la plantilla para tus blogpost con un diseño que ayuda con la estructura tu contenido. 
 
-### Resultado final
+### Resultado 
 
-Desktop
-  <img src="destokp.png"/>
+## Desktop
 
-Mobile
-  <img src="assets/destokp.png"/>
+  <img alt="Vista desktop del proyecto Nemium" width="400px"  src="medium-1.png"/>
 
-Disclaimer
+
+## Mobile
+
+  <img alt="Vista mobile del proyecto Nemium" width="400px" src="nemium.png"/>
+
+
+
+## Disclaimer
+
 Todas son propuestas al final proyectos es brindarte el diseño, el límite de la creación depende de tus ganas de hacerlo realidad y tu skills del momento a la hora de ejecutarlo.
 
 
