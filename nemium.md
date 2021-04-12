@@ -95,8 +95,11 @@ Requerimentos:
 
 Este proyecto cuenta con variantes en Figma, crealas y coloca un menú para navergar entre variantes.
 
+## Créditos
 
-Diseño creado por [leonidasesteban.com](https://leonidasesteban.com)
+Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
+
+Diseño creado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
 
 
 
