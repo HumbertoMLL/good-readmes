@@ -55,3 +55,8 @@ Requerimentos
 - Publica tu resultado con github pages
 - Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
+## Créditos
+
+Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
+
+Diseñado con ♥️ en leonidasesteban.com
