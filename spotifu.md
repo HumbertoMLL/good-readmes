@@ -63,3 +63,9 @@ Requerimentos
 ### Bonus
 
 Este proyecto se realiza a profundidad en el [curso de Flexbox layout y componentes](https://leonidasesteban.com), ahí aprenderás a analizar un diseño, identificar componentes y crearlos con Flexbox. 
+
+## Créditos
+
+Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
+
+Diseñado con ♥️ en leonidasesteban.com
