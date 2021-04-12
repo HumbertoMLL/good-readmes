@@ -37,8 +37,11 @@ Requerimentos
 - Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 APIS que podrías usar:
+
 [API de YouTube](https://developers.google.com/youtube/v3)
+
 [API de Twitch](https://dev.twitch.tv/docs/api/)
+
 [APi de Vimeo](https://developer.vimeo.com/api/reference)
 
 ## Nivel 3
