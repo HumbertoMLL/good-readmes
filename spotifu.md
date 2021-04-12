@@ -8,28 +8,52 @@ Crea la plataforma líder a nivel global en consumo de música bajo demanda, per
 
 ## Desktop
 
+Crearás la aplicación de escritorio y así debe lucir al final.
+
 <img width="400px" src="spotifu.png" />
 
 
 ## Disclaimer
 
-Todas son propuestas al final /Proyectos es brindarte el diseño, el límite de la creación depende de tus ganas de hacerlo realidad y tu skills del momento a la hora de ejecutarlo.
-
+Todas son propuestas, el proposito de **/Proyectos** es brindarte el diseño, el límite de la creación lo dictan tus ganas de hacerlo realidad y tu skills del momento a la hora de codear.
 
 
 ## Nivel 1
 
-Sin restricciones
+Crea toda la maquetación de forma libre, puedes utilizar frameworks, o sólo HTML y CSS, permitete explorar alguna nueva tecnología, este nivel es estilo libre.
+
+Requerimentos
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Nivel 2
 
-Utiliza solo flexbox 
+Debes crear toda la interfaz sin utilizar CSS grid layout y pensar en componentes.
+
+Requerimentos
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Crea componentes reutilizables
+- No utilzes CSS grid layout
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+
 
 
 ## Nivel 3
 
-Consume la API de Spotify
-Que el reproductor funcione 
+¡Hazlo funcionar! Consume la API de Spotify para reproducir las canciones y haz que el reproductor funcione (play, pausa, etc).
+
+Requerimentos
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Consume la [API de spotify](https://developer.spotify.com/documentation/web-api/)
+- Dale funcionalidad al reproductor 
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+
 
 
 
@@ -38,4 +62,4 @@ Que el reproductor funcione
 
 ### Bonus
 
-Este proyecto cuenta con variantes en Figma, crealas y coloca un menú para navergar entre variantes.
+Este proyecto se realiza a profundidad en el [curso de Flexbox layout y componentes](https://leonidasesteban.com), ahí aprenderás a analizar un diseño, identificar componentes y crearlos con Flexbox. 
