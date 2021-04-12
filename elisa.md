@@ -8,20 +8,50 @@ Tus mejores proyectos merecen ser presentados en un gran portafolio, crea un por
 
 ## Desktop
 
-<img width="120px"  src="elisa-desktop.png" />
+<img width="400px"  src="elisa-desktop.png" />
 
 ## Mobile
 
-<img width="120px"  src="elisa-mobile.png" />
+<img width="400px"  src="elisa-mobile.png" />
 
 ## Disclaimer 
-
 
 Todas son propuestas, el proposito de **/Proyectos** es brindarte el diseño, el límite de la creación lo dictan tus ganas de hacerlo realidad y tu skills del momento a la hora de codear.
 
 ## Nivel 1
 
+Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación. 
+
+Requerimentos
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+
 ## Nivel 2
 
+Personalízalo, tomate una gran foto y añadela, haz funcionar el  botón de **curriculum**.
+
+Requerimentos
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Cambia la foto de Elisa por una tuya
+- Añade tu curriculum y permite que se pueda descargar
+- Agrega proyectos propios 
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+
+
 ## Nivel 3
+
+Funcionalidad total. Dale vida al formulario para que logren contactarte si están interesados en trabajar contigo. Compra tu dominio y despliega tu portafolio.
+
+Requerimentos
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Despliega tu portafolio en un dominio custom. 
+- Haz funcionar el formulario para logren contactarte
+- Agrega un captcha para evitar bots
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
