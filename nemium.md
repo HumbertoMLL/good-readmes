@@ -95,6 +95,10 @@ Requerimentos:
 
 Este proyecto cuenta con variantes en Figma, crealas y coloca un menú para navergar entre variantes.
 
+## Revisión
+
+Recuerda mandar tu proyecto a revisión, si aún no conoces como funciona el proceso de revisión lee este post: [Como usar proyectos en 3 pasos](https://leonidasesteban.com/blog/como-usar-proyectos-en-3-pasos)
+
 ## Créditos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
