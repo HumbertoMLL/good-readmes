@@ -1,5 +1,5 @@
 <div align="center">
-<img width="120px"  src="logoNTR.png" />
+<img width="120px"  src="https://github.com/no-te-rindas/logo/raw/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 
