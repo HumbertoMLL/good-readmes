@@ -8,7 +8,7 @@ Construye la plataforma líder en streaming, permite a los usuarios acceder a su
 
 ## Mobile
 
-<img width="400px"  src="netnet.png" />
+<img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/netnet/netnet.png" />
 
 ## Disclaimer
 
