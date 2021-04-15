@@ -1,5 +1,5 @@
 <div align="center">
-<img width="120px"  src="logoNTR.png" />
+<img width="120px"  src="https://github.com/no-te-rindas/logo/raw/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Spotifu
@@ -10,7 +10,7 @@ Crea la plataforma líder a nivel global en consumo de música bajo demanda, per
 
 Crearás la aplicación de escritorio y así debe lucir al final.
 
-<img width="400px" src="spotifu.png" />
+<img width="400px" src="https://github.com/no-te-rindas/imagenes/tree/main/Readmes/spotifu" />
 
 
 ## Disclaimer
