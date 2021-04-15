@@ -15,13 +15,13 @@ Crea la plantilla para tus blogpost con un diseño que ayuda con la estructura t
 Así lucirá la versión en modo Desktop de tu proyecto.
 
 
-  <img alt="Vista desktop del proyecto Nemium" width="400px"  src="medium-1.png"/>
+  <img alt="Vista desktop del proyecto Nemium" width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/nemium/medium-1.png"/>
 
 
 ## Mobile
 Así lucirá la versión en modo mobile de tu proyecto.
 
-  <img alt="Vista mobile del proyecto Nemium" width="400px" src="nemium.png"/>
+  <img alt="Vista mobile del proyecto Nemium" width="400px" src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/nemium/nemium.png"/>
 
 
 [Ver demo live](https://leonidasesteban.github.io/curso-esencial-html-css/)
