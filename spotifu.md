@@ -10,7 +10,7 @@ Crea la plataforma líder a nivel global en consumo de música bajo demanda, per
 
 Crearás la aplicación de escritorio y así debe lucir al final.
 
-<img width="400px" src="https://github.com/no-te-rindas/imagenes/tree/main/Readmes/spotifu" />
+<img width="400px" src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/spotifu/spotifu.png?raw=true" />
 
 
 ## Disclaimer
