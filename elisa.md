@@ -1,5 +1,5 @@
 <div align="center">
-<img width="120px"  src="logoNTR.png" />
+<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Portafolio Elisa
@@ -8,11 +8,11 @@ Tus mejores proyectos merecen ser presentados en un gran portafolio, crea un por
 
 ## Desktop
 
-<img width="400px"  src="elisa-desktop.png" />
+<img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/elisa/elisa-desktop.png" />
 
 ## Mobile
 
-<img width="400px"  src="elisa-mobile.png" />
+<img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/elisa/elisa-mobile.png" />
 
 ## Disclaimer 
 
