@@ -4,7 +4,7 @@
 
 # Portafolio Antonio
 
-Presenta tus proyectos con este increible portafolio, utiliza una paleta de colores neutros y un toque de anaranjado para destacar.
+Presenta tus proyectos con este increíble portafolio, utiliza una paleta de colores neutros y un toque de anaranjado para destacar lo más importante.
 
 ## Desktop
 
@@ -12,7 +12,7 @@ Presenta tus proyectos con este increible portafolio, utiliza una paleta de colo
 
 ## Mobile
 
-<img width="280px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/portafolio-antonio/antonio-mobile.png?raw=true" />
+<img width="200px" src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/portafolio-antonio/antonio-mobile.png?raw=true" />
 
 ## Disclaimer
 
@@ -50,7 +50,7 @@ Tenemos un par de clases para ayudarte:
 
 Requerimientos
 
-- Formulacio funcional y accesible
+- Formulario funcional y accesible
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
