@@ -47,7 +47,7 @@ Agrega el menú de navegación del header y coloca el **mailto** para que puedan
 
 Requerimientos
 
-- Menú hamburguesa
+- Navegación por ids
 - Mailto
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
