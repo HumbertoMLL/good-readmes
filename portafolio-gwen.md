@@ -43,14 +43,12 @@ Requerimientos
 
 ## Nivel 3
 
-Dale vida al formulario de contacto sin utilizar backend. 
-Tenemos un par de clases para ayudarte:
-[Creando un formulario de contacto funcional con JavaScript](https://youtu.be/V79bslyDIT8)
-[Envío de formulario de contacto por correo con el API de Formspree](https://youtu.be/qtH8PLuy1Ck)
+Agrega el menú hamburguesa y coloca el **mailto** para que puedan contactarse contigo. 
 
 Requerimientos
 
-- Formulario funcional y accesible
+- Menú hamburguesa
+- Mailto
 - Accesibilidad como prioridad
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
